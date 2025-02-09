@@ -23,17 +23,18 @@ Estou explorando diversas áreas do desenvolvimento a fim de ter uma visão abra
 
 ### 🎮 Hobbies
 Nos meus momentos livres, gosto de:
-- ![Alistar Vaquinha](https://raw.githubusercontent.com/quantumlytangled/lol-champion-icons/main/skins/Alistar-MooCow.png) ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-000000?style=flat&logo=riot-games&logoColor=white) Jogar *League of Legends* (Main *Alistar Vaquinha* 🐮)
+- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-000000?style=flat&logo=riot-games&logoColor=white) Jogar *League of Legends* 
 - ![Palmeiras](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/120px-Palmeiras_logo.svg.png) Assistir *futebol* (Torcedor do Palmeiras)
-- ![Churrasco](https://img.icons8.com/emoji/48/steak-emoji.png) Aproveitar um *bom churrasco*
+- Aproveitar um *bom churrasco*
 - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) Conversar e passar tempo com os amigos  
-- ![Judô](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Judo_black.svg/120px-Judo_black.svg.png) Pratiquei *Judô* por um ano  
+- Pratiquei *Judô* por um ano  
   - Faixa Branca 🥋  
-  - ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) Conquistei *duas medalhas de bronze*!  
-- ![Livro](https://img.icons8.com/emoji/48/open-book-emoji.png) *Leitura* – Amo mergulhar em histórias envolventes  
-  - ![Harry Potter](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/120px-Harry_Potter_wordmark.svg.png) *Harry Potter*  
-  - ![Percy Jackson](https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Percy_Jackson_%26_the_Olympians_logo.png/120px-Percy_Jackson_%26_the_Olympians_logo.png) *Percy Jackson*  
-  - ![As Crônicas de Nárnia](https://upload.wikimedia.org/wikipedia/en/thumb/2/29/The_Chronicles_of_Narnia_logo.png/120px-The_Chronicles_of_Narnia_logo.png) *As Crônicas de Nárnia*  
+  - ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) Conquistei *duas medalhas de bronze*! 
+ 
+### Livros
+  - *Harry Potter*  
+  - *Percy Jackson*  
+  - *As Crônicas de Nárnia*  
 
 ### 🤝 Vamos nos conectar!
 Se você também gosta de aprender e valoriza o trabalho em equipe, adoraria trocar ideias e experiências. *Me manda um alô!*
