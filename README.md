@@ -31,7 +31,7 @@ Nos meus momentos livres, gosto de:
   - Faixa Branca 🥋  
   - Conquistei *duas medalhas de bronze*! 
  
-### Livros
+### 📚 Leitura
   - *Harry Potter*  
   - *Percy Jackson*  
   - *As Crônicas de Nárnia*  
