@@ -22,7 +22,24 @@ Nos meus momentos livres, gosto de:
 Além disso, fui judoca por um ano e, mesmo sendo faixa branca, conquistei duas medalhas de bronze!
 
 ### 🤝 Vamos nos conectar!
-Se você também gosta de aprender e valoriza o trabalho em equipe, adoraria trocar ideias e experiências. **Me manda um alô!** 
+Se você também gosta de aprender e valoriza o trabalho em equipe, adoraria trocar ideias e experiências. **Me manda um alô!**
+
+### Contatos!!!
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://www.instagram.com/brunin1993/" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://x.com/BrunEletric" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/X-%231D9BF0?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/bruno-o-vasconcelos/" target="_blank">
+        <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="mailto:contato@seu-email-aqui">
+        <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</div>
+
 
 ---
 
