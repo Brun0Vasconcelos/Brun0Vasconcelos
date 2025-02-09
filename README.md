@@ -23,13 +23,13 @@ Estou explorando diversas áreas do desenvolvimento a fim de ter uma visão abra
 
 ### 🎮 Hobbies
 Nos meus momentos livres, gosto de:
-- ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-000000?style=flat&logo=riot-games&logoColor=white) Jogar *League of Legends* 
-- ![Palmeiras](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/120px-Palmeiras_logo.svg.png) Assistir *futebol* (Torcedor do Palmeiras)
+- Jogar *League of Legends* 
+- Assistir *futebol* (Torcedor do Palmeiras)
 - Aproveitar um *bom churrasco*
-- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) Conversar e passar tempo com os amigos  
+- Conversar e passar tempo com os amigos  
 - Pratiquei *Judô* por um ano  
   - Faixa Branca 🥋  
-  - ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) ![Medalha de Bronze](https://img.icons8.com/emoji/48/3rd-place-medal-emoji.png) Conquistei *duas medalhas de bronze*! 
+  - Conquistei *duas medalhas de bronze*! 
  
 ### Livros
   - *Harry Potter*  
